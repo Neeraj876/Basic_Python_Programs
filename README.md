@@ -9,7 +9,7 @@ Welcome to this amaizing repository! This collection contains over 140 basic Pyt
 
 - **Basic Python Programs.pdf**: This file contains the list of interview problems along with their solutions. You can use it as a quick reference guide or print it for offline use.
 
-- **Basic Python Program (2).ipynb**: This Jupyter Notebook file mirrors the content of the PDF file. It allows for interactive exploration of the problems and solutions. Feel free to run the code cells, modify them, and experiment with different solutions.
+- **Basic Python Program.ipynb**: This Jupyter Notebook file mirrors the content of the PDF file. It allows for interactive exploration of the problems and solutions. Feel free to run the code cells, modify them, and experiment with different solutions.
 
 
 ## Contribution Guidelines
